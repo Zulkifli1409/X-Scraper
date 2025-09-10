@@ -278,7 +278,7 @@ git push origin feature/your-feature
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Zulkifli1409/X-Scraper/issues)
 - 📧 **Email**: zul140904@gmail.com
-- 🔗 **LinkedIn**:(https://www.linkedin.com/in/zulkifli1409)
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/zulkifli1409
 
 ## 📄 License
 
